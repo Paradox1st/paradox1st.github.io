@@ -1,0 +1,16 @@
+Basic content:
+my description
+resume
+portfolio (projects)
+contact
+
+aesthetics:
+layout
+logo
+buttons
+section divisions
+
+Features:
+single / multiple pages
+organization
+darkmode / lightmode toggle
