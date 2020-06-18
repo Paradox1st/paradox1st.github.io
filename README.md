@@ -1,2 +1,3 @@
-# paradox1st.github.io
-Personal Website
+# www.minjaepark.com
+Personal Website created by Minjae Park
+yay
